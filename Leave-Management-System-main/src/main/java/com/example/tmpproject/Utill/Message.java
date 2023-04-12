@@ -1,0 +1,44 @@
+package com.example.tmpproject.Utill;
+
+public class Message {
+    public static final String LOGIN_SUCCESS = "Welcome to LMS !";
+    public static final String LOGOUT_SUCCESS = "user LogOut successfully !";
+    public static final String LOGIN_ERROR = "User credentials are not valid";
+    public static final String USER_NOT_VERIFY = "Your account has not been verified. Please verify your account by clicking on the link sent to your email.";
+    public static final String NO_FOUND = "No record found!";
+    public static final String PSWD_UPT_SUCCESS = "Your Password has successfully been changed.";
+    public static final String PSWD_SEND_SUCCESSFULLY = "new Password send your emailID Successfully.";
+    public static final String SOMETHING_WRONG = "Failed..! Something went Wrong!!";
+    public static final String PARAMETER_NOT_SUPPLIED = "A parameter that is required for the method of the request was not supplied.";
+    public static final String DEPARTMENT_NOT_FOUND = "Department not found!";
+    public static final String DEPARTMENT_UPDATED_SUCCESSFULLY = "Department Updated Successfully.";
+    public static final String DEPARTMENT_CREATED_SUCCESSFULLY = "Department Created Successfully.";
+    public static final String DEPARTMENT_STATUS_UPDATED_SUCCESSFULLY = "Department Status Updated Successfully.";
+    public static final String DEPARTMENT_FOUND = "Department found!";
+    public static final String DEPARTMENT_GET_SUCCESSFULLY = "Get All Department list Successful!";
+    public static final String DESIGNATION_NOT_FOUND = "Designation not found!";
+    public static final String DESIGNATION_UPDATED_SUCCESSFULLY = "Designation Updated Successfully.";
+    public static final String DESIGNATION_CREATED_SUCCESSFULLY = "Designation Created Successfully.";
+    public static final String DESIGNATION_STATUS_UPDATED_SUCCESSFULLY = "Designation Status Updated Successfully.";
+    public static final String DESIGNATION_FOUND = "Designation found!";
+    public static final String DESIGNATION_GET_SUCCESSFULLY = "Get All Designation list Successful!";
+    public static final String LEAVE_TYPE_NOT_FOUND = "Leave Type not found!";
+    public static final String LEAVE_TYPE_UPDATED_SUCCESSFULLY = "Leave Type Updated Successfully.";
+    public static final String LEAVE_TYPE_CREATED_SUCCESSFULLY = "Leave Type Created Successfully.";
+    public static final String LEAVE_TYPE_STATUS_UPDATED_SUCCESSFULLY = "Leave Type Status Updated Successfully.";
+    public static final String LEAVE_TYPE_FOUND = "Leave Type found!";
+    public static final String LEAVE_TYPE_GET_SUCCESSFULLY = "Get All Leave Type list Successful!";
+    public static final String EMPLOYEE_NOT_FOUND = "Employee not found!";
+    public static final String EMPLOYEE_UPDATED_SUCCESSFULLY = "Employee Updated Successfully.";
+    public static final String EMPLOYEE_CREATED_SUCCESSFULLY = "Employee Created Successfully.";
+    public static final String EMPLOYEE_STATUS_UPDATED_SUCCESSFULLY = "Employee Status Updated Successfully.";
+    public static final String EMPLOYEE_FOUND = "Employee found!";
+    public static final String EMPLOYEE_GET_SUCCESSFULLY = "Get All Employee list Successful!";
+    public static final String EMPLOYEE_ROLE_UPDATED_SUCCESSFULLY = "Employee Role Updated Successfully.";
+    public static final String LEAVE_APPLY_NOT_FOUND = "Leave Apply not found!";
+    public static final String LEAVE_APPLY_UPDATED_SUCCESSFULLY = "Leave Apply Updated Successfully.";
+    public static final String LEAVE_APPLY_CREATED_SUCCESSFULLY = "Leave Apply Created Successfully.";
+    public static final String LEAVE_APPLY_STATUS_UPDATED_SUCCESSFULLY = "Leave Apply Status Updated Successfully.";
+    public static final String LEAVE_APPLY_FOUND = "Leave Apply found!";
+    public static final String LEAVE_APPLY_GET_SUCCESSFULLY = "Get All Leave Apply list Successful!";
+}

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.tmpproject.TmpprojectApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.921 s - in com.example.tmpproject.TmpprojectApplicationTests
